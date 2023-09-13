@@ -1860,7 +1860,7 @@
     order: 2;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/94225571-05.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/e0542cf682cbb9f878679bad0dd9e91b58b2a0ab324a5083c64a66eb9bf4906d616007978298b9a81d6fcfdcc269cae2de2c6f0bb706b28e820735_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -1891,7 +1891,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -142px auto 0 164px;
+  margin: -196px auto 0 208px;
 }
 
 .u-section-5 .u-image-3 {
@@ -1904,7 +1904,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -70px auto 0 378px;
+  margin: -16px auto 0;
 }
 
 .u-section-5 .u-image-4 {
@@ -1917,7 +1917,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -241px 189px 0 auto;
+  margin: -194px 45px 0 auto;
 }
 
 .u-section-5 .u-image-5 {
@@ -1930,7 +1930,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -223px auto 0 -32px;
+  margin: -255px auto 0 16px;
 }
 
 .u-section-5 .u-image-6 {
@@ -1943,7 +1943,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -68px auto 0 137px;
+  margin: 5px auto 0 194px;
 }
 
 .u-section-5 .u-image-7 {
@@ -1956,13 +1956,13 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: -29px auto 0 412px;
+  margin: -112px 321px 0 auto;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 3rem;
   font-weight: 700;
-  margin: -107px 917px 60px 0;
+  margin: -111px 917px 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -2043,7 +2043,7 @@
 
   .u-section-5 .u-image-5 {
     margin-top: -200px;
-    margin-left: -32px;
+    margin-left: 16px;
   }
 
   .u-section-5 .u-image-6 {
@@ -2111,8 +2111,8 @@
 
   .u-section-5 .u-text-1 {
     margin-top: 300px;
-    margin-left: auto;
     margin-right: 317px;
+    margin-left: auto;
   }
 }
 
@@ -2153,12 +2153,14 @@
 
   .u-section-5 .u-image-6 {
     margin-top: 469px;
+    margin-left: 144px;
   }
 
   .u-section-5 .u-image-7 {
     width: 145px;
     height: 145px;
     margin-top: -349px;
+    margin-right: 126px;
     margin-left: 0;
   }
 
